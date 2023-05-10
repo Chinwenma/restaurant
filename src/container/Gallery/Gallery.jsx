@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Gallery.css';
+import './Gallery.scss';
 
 const Gallery = () => (
   <div>
