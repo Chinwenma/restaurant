@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './AboutUs.scss';
+import './AboutUs.css';
 
 const AboutUs = () => (
   <div>

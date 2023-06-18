@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './MenuItem.scss';
+import './MenuItem.css';
 
 const MenuItem = () => (
   <div>

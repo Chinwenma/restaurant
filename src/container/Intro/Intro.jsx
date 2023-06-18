@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Intro.scss';
+import './Intro.css';
 
 const Intro = () => (
   <div>

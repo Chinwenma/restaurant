@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './SpecialMenu.scss';
+import './SpecialMenu.css';
 
 const SpecialMenu = () => (
   <div>

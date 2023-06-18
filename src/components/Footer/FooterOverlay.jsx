@@ -1,9 +1,12 @@
 import React from 'react';
 
-import './FooterOverlay.scss';
+import './FooterOverlay.css';
 
 const FooterOverlay = () => (
   <div>
+
+
+    
     FooterOverlay
   </div>
 );

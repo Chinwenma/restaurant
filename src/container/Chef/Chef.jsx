@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Chef.scss';
+import './Chef.css';
 
 const Chef = () => (
   <div>
