@@ -8,6 +8,9 @@
 .app__aboutus-overlay img{
     width: 391px;
     height: 415px;
+    
+    opacity: 0.20;
+    
     z-index: 0;
 }
 .app__aboutus-content{
@@ -60,14 +63,27 @@
         flex-direction: column;
     }
     .app__aboutus-content_knife{
-        margin: 4rem 0;
+       margin: 2rem 0;
     }
+    .app__aboutus-content_knife img{
+        display: none;
+    }
+    .app__aboutus-content_about{
+        
+        justify-content: flex-start;
+        align-items: flex-start;
+     
+        text-align: left;
+    }
+
     
 }
 @media  screen and (max-width:650px){
     .app__aboutus-overlay img{
         width: 80%;
         height: 320px;
+        
+
     }
     .app__aboutus-content_about{
         
