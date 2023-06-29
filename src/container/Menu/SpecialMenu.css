@@ -81,14 +81,6 @@
 }
 
 @media screen and (max-width: 650px) {
-    .app__specialMenu{
-background-image: url(../../assets/menu.png);
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-opacity: 0.5;
-z-index: 0;
-    }
     .app__specialMenu-menu_img {
         width: 100%;
     }
