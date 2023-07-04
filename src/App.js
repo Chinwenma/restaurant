@@ -3,7 +3,7 @@ import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, Special
 import Navbar  from './components/Navbar/Navbar';
 import './App.css';
 const App = () => (
-  <div>
+  <>
     <Navbar />
     <Header />
     <AboutUs />
@@ -14,7 +14,7 @@ const App = () => (
     <Gallery />
     <FindUs />
     <Footer />
-  </div>
+  </>
 );
 
 export default App;

@@ -18,6 +18,17 @@
   margin: 0;
   scroll-behavior: smooth;
 }
+::-webkit-scrollbar {
+  width: .375rem;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-black);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-golden);
+}
 
 a {
   color: unset;
